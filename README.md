@@ -1,5 +1,5 @@
-# Classification-de-text
-Classification des Commentaires Youtube 
+# Classification des Commentaires Youtube
+
 
 Le projet est utilisé pour classer les commentaires YouTube dans les catégories SPAM et non-spam.
 
